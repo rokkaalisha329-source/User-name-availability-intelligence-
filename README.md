@@ -3,7 +3,7 @@ cat > report.md << 'EOF'
 # Task 2 Report: Username Availability Intelligence
 
 **Author:** Alisha Rokka
-**Report date:** [fill in]
+**Report date:** 9th oct 2026
 **Assessment:** 5th Division OSINT (Internship Task)
 
 ## 1. Executive Summary
